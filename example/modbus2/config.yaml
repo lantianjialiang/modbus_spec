@@ -1,0 +1,4 @@
+client_port: COM1
+client_id: 1
+client_timeout: 0.05
+server_port: COM2
