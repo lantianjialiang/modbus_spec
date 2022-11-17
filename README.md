@@ -36,7 +36,7 @@ example/modbus2 direcotry have the simple python code example for communicate wi
 # modbus for Omron's E5CN heat contoller
 Recently, we are working on the Omron's E5CN heat contoller.
 I want to some place for it.
-1. it don't have free software to configure and test it
+1. it don't have free software to configure and test it, you must set it manually if you don't want to spend money.
 2. we must use CX Thermo to set it, but it need to buy(250 USD~)
 
 
