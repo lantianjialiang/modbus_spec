@@ -33,3 +33,10 @@ the example code used two python package: minimalmodbus, pyserial
 example/modbus1 direcotry have the simple python code example for communicate with serial
 example/modbus2 direcotry have the simple python code example for communicate with serial, the data encode with modbus
 
+# modbus for Omron's E5CN heat contoller
+Recently, we are working on the Omron's E5CN heat contoller.
+I want to some place for it.
+1. it don't have free software to configure and test it
+2. we must use CX Thermo to set it, but it need to buy(250 USD~)
+
+
