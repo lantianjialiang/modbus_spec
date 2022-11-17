@@ -19,3 +19,17 @@ It's a command line tools to mock as a slave, but seems not powerful than ModRSs
 ModRSsim2_V8.21.2.7.exe
 You can download from https://sourceforge.net/projects/modrssim2/
 It have GUI to configure the register value
+
+# example
+
+Before run the code, please make sure there are two serial port which connected each other.
+You can simulator the serial port with Free Virtual Serial Ports in Windows or
+You can simulator the serial port with socat 
+https://freevirtualserialports.com/
+https://stackoverflow.com/questions/52187/virtual-serial-port-for-linux
+
+the example code used two python package: minimalmodbus, pyserial
+
+example/modbus1 direcotry have the simple python code example for communicate with serial
+example/modbus2 direcotry have the simple python code example for communicate with serial, the data encode with modbus
+
